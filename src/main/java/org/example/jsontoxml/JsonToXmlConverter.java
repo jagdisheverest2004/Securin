@@ -5,12 +5,13 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class JsonToXmlConverter {
 
     public static String convert(String jsonString) {
         try {
-            // Check if the top level is an object or an array as per the document.
             if (jsonString.trim().startsWith("{")) {
                 JSONObject jsonObject = new JSONObject(jsonString);
                 StringBuilder xmlBuilder = new StringBuilder("<object>");
@@ -32,7 +33,9 @@ public class JsonToXmlConverter {
     }
 
     private static void convertJsonObject(JSONObject jsonObject, StringBuilder xmlBuilder, boolean isNested) {
-        for (String key : jsonObject.keySet()) {
+        List<String> sortedKeys = jsonObject.keySet().stream().sorted()
+                .toList();
+        for (String key : sortedKeys) {
             Object value = jsonObject.get(key);
             String tagName = getXmlTagName(value);
             String nameAttribute = " name=\"" + key + "\"";
@@ -81,7 +84,7 @@ public class JsonToXmlConverter {
     private static String getXmlTagName(Object value) {
         if (value instanceof String) {
             return "string";
-        } else if (value instanceof Integer || value instanceof Double || value instanceof Long) {
+        } else if (value instanceof Number) {
             return "number";
         } else if (value instanceof Boolean) {
             return "boolean";
