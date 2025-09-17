@@ -12,6 +12,7 @@ public class JsonToXmlConverter {
 
     public static String convert(String jsonString) {
         try {
+
             if (jsonString.trim().startsWith("{")) {
                 JSONObject jsonObject = new JSONObject(jsonString);
                 StringBuilder xmlBuilder = new StringBuilder("<object>");
