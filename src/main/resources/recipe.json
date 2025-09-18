@@ -1,0 +1,455 @@
+[
+  {
+    "Contient": "North America",
+    "Country_State": "US",
+    "cuisine": "Southern Recipes",
+    "title": "Sweet Potato Pie",
+    "URL": "https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/",
+    "rating": 4.8,
+    "total_time": 115,
+    "prep_time": 15,
+    "cook_time": 100,
+    "description": "Shared from a Southern recipe, this homemade sweet potato pie is easy to make with boiled sweet potato. Try it, it may just be the best you've ever tasted!",
+    "ingredients": [
+      "1 (1 pound) sweet potato, with skin",
+      "0.5 cup butter, softened",
+      "1 cup white sugar",
+      "0.5 cup milk",
+      "2 large eggs",
+      "0.5 teaspoon ground nutmeg",
+      "0.5 teaspoon ground cinnamon",
+      "1 teaspoon vanilla extract",
+      "1 (9 inch) unbaked pie crust"
+    ],
+    "instructions": [
+      "Place whole sweet potato in pot and cover with water; bring to a boil. Boil until tender when pierced with a fork, 40 to 50 minutes.",
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Remove sweet potato from the pot and run under cold water. Remove and discard skin.",
+      "Break sweet potato flesh apart and place in a bowl. Add butter and mix with an electric mixer until well combined. Add sugar, milk, eggs, nutmeg, cinnamon, and vanilla; beat on medium speed until mixture is smooth. Pour filling into unbaked pie crust.",
+      "Bake in the preheated oven until a knife inserted in the center comes out clean, 55 to 60 minutes.",
+      "Remove from the oven and let cool before serving."
+    ],
+    "nutrients": {
+      "calories": "389 kcal",
+      "carbohydrateContent": "48 g",
+      "cholesterolContent": "78 mg",
+      "fiberContent": "3 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "10 g",
+      "sodiumContent": "254 mg",
+      "sugarContent": "28 g",
+      "fatContent": "21 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "8 servings"
+  },
+  {
+    "Contient": "Europe",
+    "Country_State": "IT",
+    "cuisine": "Italian",
+    "title": "Classic Spaghetti Bolognese",
+    "URL": "",
+    "rating": 4.7,
+    "total_time": 140,
+    "prep_time": 20,
+    "cook_time": 120,
+    "description": "A rich and meaty sauce served over a bed of fresh spaghetti. A true Italian classic.",
+    "ingredients": [
+      "1 lb spaghetti",
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 (28 ounce) can crushed tomatoes",
+      "1 teaspoon dried oregano",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package directions.",
+      "In a large skillet, cook ground beef and onion over medium heat until beef is browned.",
+      "Stir in garlic, tomatoes, and oregano. Season with salt and pepper.",
+      "Simmer for at least 1 hour.",
+      "Serve sauce over cooked spaghetti."
+    ],
+    "nutrients": {
+      "calories": "650 kcal",
+      "carbohydrateContent": "75 g",
+      "cholesterolContent": "90 mg",
+      "fiberContent": "8 g",
+      "proteinContent": "30 g",
+      "saturatedFatContent": "12 g",
+      "sodiumContent": "800 mg",
+      "sugarContent": "15 g",
+      "fatContent": "25 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "6 servings"
+  },
+  {
+    "Contient": "North America",
+    "Country_State": "MX",
+    "cuisine": "Mexican",
+    "title": "Spicy Chicken Tacos",
+    "URL": "",
+    "rating": 4.6,
+    "total_time": 30,
+    "prep_time": 15,
+    "cook_time": 15,
+    "description": "Quick and easy chicken tacos with a spicy kick. Perfect for a weeknight dinner.",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cut into strips",
+      "1 tablespoon chili powder",
+      "8 small flour tortillas",
+      "Lettuce, tomato, cheese for topping"
+    ],
+    "instructions": [
+      "In a bowl, toss chicken with chili powder.",
+      "Cook chicken in a skillet over medium-high heat until cooked through.",
+      "Warm tortillas.",
+      "Serve chicken in tortillas with your favorite toppings."
+    ],
+    "nutrients": {
+      "calories": "450 kcal",
+      "carbohydrateContent": "40 g",
+      "cholesterolContent": "70 mg",
+      "fiberContent": "5 g",
+      "proteinContent": "35 g",
+      "saturatedFatContent": "8 g",
+      "sodiumContent": "600 mg",
+      "sugarContent": "5 g",
+      "fatContent": "18 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "4 servings"
+  },
+  {
+    "Contient": "Asia",
+    "Country_State": "IN",
+    "cuisine": "Indian",
+    "title": "Hearty Lentil Soup",
+    "URL": "",
+    "rating": 4.5,
+    "total_time": 55,
+    "prep_time": 10,
+    "cook_time": 45,
+    "description": "A comforting and nutritious lentil soup, spiced with traditional Indian flavors.",
+    "ingredients": [
+      "1 cup red lentils, rinsed",
+      "4 cups vegetable broth",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon cumin seeds",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Combine lentils, broth, and turmeric in a pot.",
+      "Bring to a boil, then simmer for 30-40 minutes until lentils are soft.",
+      "In a small pan, toast cumin seeds until fragrant.",
+      "Stir cumin seeds into the soup and garnish with cilantro."
+    ],
+    "nutrients": {
+      "calories": "250 kcal",
+      "carbohydrateContent": "45 g",
+      "cholesterolContent": "0 mg",
+      "fiberContent": "15 g",
+      "proteinContent": "18 g",
+      "saturatedFatContent": "1 g",
+      "sodiumContent": "900 mg",
+      "sugarContent": "4 g",
+      "fatContent": "2 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "4 servings"
+  },
+  {
+    "Contient": "Asia",
+    "Country_State": "CN",
+    "cuisine": "Chinese",
+    "title": "Quick Beef Stir-fry",
+    "URL": "",
+    "rating": 4.4,
+    "total_time": 25,
+    "prep_time": 15,
+    "cook_time": 10,
+    "description": "A savory beef and broccoli stir-fry that's faster than takeout.",
+    "ingredients": [
+      "1 lb beef sirloin, thinly sliced",
+      "1 head of broccoli, cut into florets",
+      "1/4 cup soy sauce",
+      "2 tablespoons sesame oil"
+    ],
+    "instructions": [
+      "In a wok or large skillet, heat sesame oil over high heat.",
+      "Add beef and cook until browned.",
+      "Add broccoli and stir-fry for 3-5 minutes.",
+      "Stir in soy sauce and serve immediately over rice."
+    ],
+    "nutrients": {
+      "calories": "520 kcal",
+      "carbohydrateContent": "15 g",
+      "cholesterolContent": "100 mg",
+      "fiberContent": "5 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "10 g",
+      "sodiumContent": "1200 mg",
+      "sugarContent": "8 g",
+      "fatContent": "30 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "4 servings"
+  },
+  {
+    "Contient": "Mystery",
+    "Country_State": "N/A",
+    "cuisine": "Experimental",
+    "title": "Unrated Experimental Dish",
+    "URL": "",
+    "rating": "NaN",
+    "total_time": 70,
+    "prep_time": 20,
+    "cook_time": 50,
+    "description": "An experimental dish with an unknown rating. For testing NaN values.",
+    "ingredients": [
+      "Ingredient A",
+      "Ingredient B"
+    ],
+    "instructions": [
+      "Combine ingredients.",
+      "Cook until done."
+    ],
+    "nutrients": {
+      "calories": "300 kcal",
+      "carbohydrateContent": "30 g",
+      "cholesterolContent": "50 mg",
+      "fiberContent": "5 g",
+      "proteinContent": "15 g",
+      "saturatedFatContent": "5 g",
+      "sodiumContent": "500 mg",
+      "sugarContent": "10 g",
+      "fatContent": "12 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "2 servings"
+  },
+  {
+    "Contient": "North America",
+    "Country_State": "US",
+    "cuisine": "American",
+    "title": "Simple Caesar Salad",
+    "URL": "",
+    "rating": 4.2,
+    "total_time": 20,
+    "prep_time": 20,
+    "cook_time": 0,
+    "description": "A classic Caesar salad with a creamy homemade dressing.",
+    "ingredients": [
+      "1 head of romaine lettuce",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "Caesar dressing"
+    ],
+    "instructions": [
+      "Chop romaine lettuce and place in a large bowl.",
+      "Add croutons and Parmesan cheese.",
+      "Drizzle with dressing and toss to combine."
+    ],
+    "nutrients": {
+      "calories": "350 kcal",
+      "carbohydrateContent": "15 g",
+      "cholesterolContent": "25 mg",
+      "fiberContent": "3 g",
+      "proteinContent": "10 g",
+      "saturatedFatContent": "7 g",
+      "sodiumContent": "450 mg",
+      "sugarContent": "3 g",
+      "fatContent": "28 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "4 servings"
+  },
+  {
+    "Contient": "North America",
+    "Country_State": "US",
+    "cuisine": "Bakery",
+    "title": "Blueberry Muffins",
+    "URL": "",
+    "rating": 4.9,
+    "total_time": 40,
+    "prep_time": 15,
+    "cook_time": 25,
+    "description": "Moist and fluffy blueberry muffins, perfect for breakfast or a snack.",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 cup sugar",
+      "1 cup fresh blueberries",
+      "2 eggs",
+      "1/2 cup milk"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large bowl, mix flour and sugar.",
+      "In another bowl, beat eggs and milk.",
+      "Pour wet ingredients into dry ingredients and mix until just combined.",
+      "Gently fold in blueberries.",
+      "Fill muffin cups and bake for 20-25 minutes."
+    ],
+    "nutrients": {
+      "calories": "280 kcal",
+      "carbohydrateContent": "45 g",
+      "cholesterolContent": "40 mg",
+      "fiberContent": "2 g",
+      "proteinContent": "5 g",
+      "saturatedFatContent": "4 g",
+      "sodiumContent": "200 mg",
+      "sugarContent": "25 g",
+      "fatContent": "8 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "12 muffins"
+  },
+  {
+    "Contient": "North America",
+    "Country_State": "MX",
+    "cuisine": "Mexican",
+    "title": "Fresh Guacamole",
+    "URL": "",
+    "rating": 4.8,
+    "total_time": 10,
+    "prep_time": 10,
+    "cook_time": 0,
+    "description": "A simple and delicious guacamole made with fresh, high-quality ingredients.",
+    "ingredients": [
+      "3 ripe avocados",
+      "1/2 onion, finely chopped",
+      "1 lime, juiced",
+      "1/2 cup chopped cilantro",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Mash avocados in a bowl.",
+      "Stir in onion, lime juice, and cilantro.",
+      "Season with salt."
+    ],
+    "nutrients": {
+      "calories": "150 kcal",
+      "carbohydrateContent": "9 g",
+      "cholesterolContent": "0 mg",
+      "fiberContent": "7 g",
+      "proteinContent": "2 g",
+      "saturatedFatContent": "2 g",
+      "sodiumContent": "250 mg",
+      "sugarContent": "1 g",
+      "fatContent": "15 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "6 servings"
+  },
+  {
+    "Contient": "Asia",
+    "Country_State": "IN",
+    "cuisine": "Indian",
+    "title": "Creamy Butter Chicken",
+    "URL": "",
+    "rating": 4.9,
+    "total_time": "NaN",
+    "prep_time": 20,
+    "cook_time": 30,
+    "description": "A rich and creamy chicken curry, milder than other Indian curries but full of flavor. NaN total time for testing.",
+    "ingredients": [
+      "1 lb chicken, cubed",
+      "1 cup tomato puree",
+      "1/2 cup heavy cream",
+      "2 tablespoons butter",
+      "1 tablespoon garam masala"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and spices for at least 1 hour.",
+      "Cook chicken in a large pan until browned.",
+      "Add tomato puree, butter, cream, and garam masala.",
+      "Simmer for 15-20 minutes until the sauce has thickened."
+    ],
+    "nutrients": {
+      "calories": "580 kcal",
+      "carbohydrateContent": "10 g",
+      "cholesterolContent": "150 mg",
+      "fiberContent": "2 g",
+      "proteinContent": "45 g",
+      "saturatedFatContent": "20 g",
+      "sodiumContent": "700 mg",
+      "sugarContent": "6 g",
+      "fatContent": "40 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "4 servings"
+  },
+    {
+    "Contient": "Global",
+    "Country_State": "N/A",
+    "cuisine": "Staple",
+    "title": "Simple Boiled Rice",
+    "URL": "",
+    "rating": 3.9,
+    "total_time": 20,
+    "prep_time": "NaN",
+    "cook_time": "NaN",
+    "description": "A basic recipe for boiled rice. Testing NaN prep and cook times.",
+    "ingredients": [
+      "1 cup white rice",
+      "2 cups water"
+    ],
+    "instructions": [
+      "Rinse rice under cold water.",
+      "Combine rice and water in a pot.",
+      "Bring to a boil, then reduce heat, cover, and simmer for 15-20 minutes."
+    ],
+    "nutrients": {
+      "calories": "205 kcal",
+      "carbohydrateContent": "45 g",
+      "cholesterolContent": "0 mg",
+      "fiberContent": "1 g",
+      "proteinContent": "4 g",
+      "saturatedFatContent": "0 g",
+      "sodiumContent": "5 mg",
+      "sugarContent": "0 g",
+      "fatContent": "0.5 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "3 servings"
+  },
+  {
+    "Contient": "North America",
+    "Country_State": "US",
+    "cuisine": "American",
+    "title": "Classic Beef Burger",
+    "URL": "",
+    "rating": 4.6,
+    "total_time": 35,
+    "prep_time": 15,
+    "cook_time": 20,
+    "description": "The all-American classic beef burger, juicy and full of flavor.",
+    "ingredients": [
+      "1.5 lbs ground beef",
+      "4 burger buns",
+      "Lettuce, tomato, onion slices",
+      "Cheddar cheese slices"
+    ],
+    "instructions": [
+      "Form ground beef into 4 patties.",
+      "Season with salt and pepper.",
+      "Grill or pan-fry patties to desired doneness.",
+      "Melt a slice of cheese on top of each patty during the last minute of cooking.",
+      "Serve on buns with toppings."
+    ],
+    "nutrients": {
+      "calories": "750 kcal",
+      "carbohydrateContent": "35 g",
+      "cholesterolContent": "120 mg",
+      "fiberContent": "3 g",
+      "proteinContent": "40 g",
+      "saturatedFatContent": "18 g",
+      "sodiumContent": "850 mg",
+      "sugarContent": "8 g",
+      "fatContent": "45 g",
+      "unsaturatedFatContent": "0 g"
+    },
+    "serves": "4 servings"
+  }
+]
